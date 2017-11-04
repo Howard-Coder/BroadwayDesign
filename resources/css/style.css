@@ -6,9 +6,10 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: black;
-  background-image: url("resources/images/the-flatiron-building.png");
 }
-
+.background {
+  background-image: url("./resources/images/the-flatiron-building.png");
+}
 .link {
   font-family: Helvetica;
   font-size: 32px;
@@ -28,7 +29,7 @@ h1 {
   font-size: 23px;
   font-weight: bold;
   color: black;
-  background-image: image("./resources/images/the-flatiron-building.png");
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 .david {
   font-family: Helvetica;
